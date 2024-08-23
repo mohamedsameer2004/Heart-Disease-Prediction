@@ -1,8 +1,3 @@
-I'll create a `README.md` file for your project based on the content of the notebook you provided. Let me first take a look at the notebook to understand its contents.
-
-Based on the notebook content, I'll create a `README.md` file for your heart disease prediction project. Here's a draft:
-
----
 
 # Heart Disease Prediction
 
